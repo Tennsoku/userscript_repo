@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         BiliSearchPrint
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.2.0.5
 // @description  Print all videos in the current search page in a json file.
 // @author       You
 // @match        https://search.bilibili.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @require      https://code.jquery.com/jquery-3.6.4.min.js
+// @downloadURL  https://raw.githubusercontent.com/Tennsoku/userscript_repo/main/BiliSearchPrint.js
 // @grant        none
 // ==/UserScript==
 
