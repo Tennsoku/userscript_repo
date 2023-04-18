@@ -7,8 +7,8 @@
 // @match        https://search.bilibili.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @require      https://code.jquery.com/jquery-3.6.4.min.js
-// @downloadURL  https://raw.githubusercontent.com/Tennsoku/userscript_repo/main/BiliSearchPrint.js
-// @updateURL    https://raw.githubusercontent.com/Tennsoku/userscript_repo/main/BiliSearchPrint.js
+// @downloadURL  https://raw.githubusercontent.com/Tennsoku/userscript_repo/main/BiliSearchPrint.user.js
+// @updateURL    https://raw.githubusercontent.com/Tennsoku/userscript_repo/main/BiliSearchPrint.user.js
 // @grant        none
 // ==/UserScript==
 
